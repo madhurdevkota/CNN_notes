@@ -1,4 +1,4 @@
-### Detailed Summary of Convolutional Neural Networks Implementation
+### A Comprehensive Fundamental Implementation of Convolutional Neural Networks with NumPy
 
 #### 1. Introduction
 This project involves implementing the fundamental components of Convolutional Neural Networks (CNNs) using numpy, a core library for numerical computations in Python. The notebook is structured to guide through implementing convolutional (CONV) and pooling (POOL) layers, crucial for understanding and building deeper neural networks for image and video processing tasks.
@@ -30,4 +30,4 @@ This project involves implementing the fundamental components of Convolutional N
 - **Details**: This section, although optional, provides insights into gradient computation for learning in CNNs through backward propagation.
 
 ### Executive Summary
-In this project, we successfully implemented the key building blocks of Convolutional Neural Networks using numpy. We developed functions for zero-padding, convolution operations, and both max and average pooling. Each component was built with detailed numpy operations, ensuring an understanding of the underlying mechanisms driving CNNs. The forward and optional backward propagation aspects of CNN were covered, providing a comprehensive foundation for building and understanding more complex network architectures. This groundwork is essential for advancing in deep learning and applying CNNs to real-world problems in image and video recognition tasks.
+In this project, the key building blocks of Convolutional Neural Networks were successfully implemented using numpy. Functions for zero-padding, convolution operations, and both max and average pooling were developed. Each component was constructed with detailed numpy operations, ensuring that an understanding of the underlying mechanisms driving CNNs was achieved. The forward and optional backward propagation aspects of CNN were explored, providing a comprehensive foundation for the construction and comprehension of more complex network architectures.
